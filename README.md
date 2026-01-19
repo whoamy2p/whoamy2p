@@ -34,6 +34,9 @@ Developer Jr | GIS | Data Analysis Enthusiast
 
 ---
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+---
+
 ## 🧰 Languages and Tools
 
 ### 🎨 Front-end
@@ -77,6 +80,9 @@ Developer Jr | GIS | Data Analysis Enthusiast
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whoamy2p&layout=compact&bg_color=0d1117&text_color=ffffff" />
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
 
 ---
 
