@@ -8,9 +8,11 @@
 Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Isaias Cesar Quintana Errazabal
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=🚀+Developer+Jr;🌍+GIS+Specialist;📊+Data+Analysis+Enthusiast" alt="Typing SVG" /></a>
-</p>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Developer_Jr-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Developer Jr">&nbsp;
+  <img src="https://img.shields.io/badge/GIS-00A98F?style=for-the-badge&logo=mapbox&logoColor=white" alt="GIS">&nbsp;
+  <img src="https://img.shields.io/badge/Data_Analysis_Enthusiast-FF6B6B?style=for-the-badge&logo=googledatastudio&logoColor=white" alt="Data Analysis">
+</h3>
 
 <br>
 
